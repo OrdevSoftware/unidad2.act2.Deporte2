@@ -1,0 +1,9 @@
+<resources>
+
+    <string name="app_name">Unidad2 - Actividad 2:Deporte2</string>
+    <string name="cabecera">Selecciona los deportes que más te gustan y pulsa Aceptar</string>
+    <string name="boton">Aceptar</string>
+    
+    <string name="imagen_deporte">Imagen asociada a cada deporte</string>
+
+</resources>
